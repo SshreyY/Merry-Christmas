@@ -2,7 +2,7 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
@@ -28,12 +28,12 @@ TODO
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+Images, Website, Location, and Choices.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+Ria - Pick out gifts, make a list of gits, getting pictures, 
